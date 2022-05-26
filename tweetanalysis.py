@@ -43,8 +43,8 @@ access_token = '1379246348961153027-kPuS3vGfGJf1MCSZDYDJqijEh8RnyO'
 access_token_secret ='TpX7Uwbt4dDfP8h1nzsuiHAyn1Qb9MtJU73pFm7FxNpMB'
 
 comprehend = boto3.client(service_name='comprehend', region_name='us-east-2', **{
-                        "aws_access_key_id":"AKIAYJNPWP25BWRYBILB",
-                        "aws_secret_access_key":"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"
+                        "aws_access_key_id":,
+                        "aws_secret_access_key":
             })
 
 
